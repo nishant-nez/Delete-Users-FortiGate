@@ -4,9 +4,9 @@
 A Python Project based on Selenium package that deletes users from givel excel sheet containing the usernames to be deleted from the FortiGate 100F firewall.
 
 ## Contents
- - main.py: The main python file that runs the selenium code.
- - data.xlsx: Excel sheet containing the usernames present in the firewall to be deleted.
- - credentials.ini: A ini file containing the username, password and IP address to open the firewall page.
+ - __main.py__: The main python file that runs the selenium code.
+ - __data.xlsx__: Excel sheet containing the usernames present in the firewall to be deleted.
+ - __credentials.ini__: A ini file containing the username, password and IP address to open the firewall page.
  
 
 ## Installation

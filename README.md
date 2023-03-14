@@ -18,6 +18,18 @@ Install the dependencies if not exists
 pip install selenium
 ```
 
+The following modules are also required
+
+Pandas:
+
+```sh
+pip install pandas
+```
+Configparser:
+```sh
+pip install configparser
+```
+
  ## How to Run
   - Open data.xlsx and fill the **username** column with username in firewall to be deleted.
   - Open credentials.ini and replace the values of link, username and password with correct value.
